@@ -1,0 +1,60 @@
+Lookup:Team
+0x00 = Cruzeiro
+0x02 = Palmeiras
+0x04 = Botafogo
+0x06 = Parana
+0x08 = Bragantino
+0x0a = Guarani
+0x0c = Gremio
+0x0e = Juventude
+0x10 = Flamengo
+0x12 = Paysandu
+0x14 = Corinthians
+0x16 = Vitoria
+0x18 = Fluminense
+0x1a = Internacional
+0x1c = Santos
+0x1e = São Paulo
+0x20 = Portuguesa
+0x22 = Goias
+0x24 = Criciuma
+0x26 = Bahia
+0x28 = Sport
+0x2a = Vasco
+0x2c = Atletico-MG
+0x2e = União
+0x30 = Ajax
+0x32 = PSG
+0x34 = Bayern
+0x36 = Juventus
+0x38 = Real Madrid
+0x3a = Barcelona
+0x3c = Boca Juniors
+0x3e = River Plate
+0x40 = Independiente
+0x42 = Penarol
+0x44 = Univ de Chile
+0x46 = Colo Colo
+0x48 = Brasil
+0x4a = Brasil 58
+0x4c = Brasil 96
+0x4e = Europe All-Stars
+0x50 = America All-Stars A
+0x52 = America All-Stars E
+
+Lookup:Stadium
+0x00 = Estádio da Gávea
+0x01 = Estádio do Morumbi
+0x02 = São Januário
+0x03 = Fonte Nova
+0x04 = Parque Antarctica
+0x05 = Estádio Olímpico
+0x06 = Estádio das Laranjeiras
+0x07 = Engenhão
+
+Format:Score
+FormatType=VALUE
+
+
+Display:
+@Stadium(0xh154) (@Team(0xhda0) [ @Score(0xhda2) ]:[ @Score(0xhea2) ] @Team(0xhea0))
