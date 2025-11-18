@@ -295,7 +295,29 @@ Valores:
 0x001d08 - Linhas de Voz (8-bit)
 Nota: Acionado quando uma linha de voz é reproduzida.
 Valores:
-0x14 = "Você venceu!"
+0x01 = "Escanteio"
+0x02 = "Tiro de meta"
+0x03 = "Lateral"
+0x04 = "Tiro Livre"
+0x08 = "Fim do 1 tempo"
+0x07 = "Replay"
+0x09 = "Tempo extra"
+0x0d = "Passe longo"
+0x0b = "Jogador caido"
+0x14 = "Vitoria"
+0x13 = "Perdeu"
+0x2c = "Chute normal"
+0x2d = "Chute muito forte"
+0x27 = "Começou"
+0x28 = "Falta"
+0x32 = "Gol contra"
+0x34 = "Chute Forte"
+0x38 = "Defesa do goleiro"
+0x40 = "Desarme"
+0x43 = "Fim do jogo"
+0x46 = "Gol"
+0x48 = "Latido"
+obs: 0x048 informa que o juiz modo cão esta ativo
  
 0x00d706 - Modos de Cenário Vencidos (1-8) (8-bit)
 Nota: Este é um campo de bits. Cada bit corresponde a um cenário concluído.
