@@ -203,18 +203,24 @@ Valores:
 0x07 = 8
 0x06 = 7
 
-0x0019c8 - Lançamento de moeda (8-bit)
-Nota: Ativo durante a tela de sorteio da moeda antes do jogo.
+0x0019ac - Chamada para Cara ou Coroa (8-bit)
+Nota: Registra a chamada do jogador antes do lançamento da moeda.
 Valores:
-0x00 = cara
-0x01 = coroa
+0x00 = Cara
+0x01 = Coroa
 
-0x0019c8 - Início de jogo/Seleção de equipe (8-bit)
-Nota: Ativo após o lançamento da moeda; registra a escolha do vencedor.
+0x0019b8 - Resultado do Lançamento de Moeda (8-bit)
+Nota: O resultado real do lançamento de moeda do árbitro.
 Valores:
-0x00 = Começar com a Bola
-0x01 = Mando casa (esquerda)
-0x02 = Mando fora (direita)
+0x00 = Cara
+0x01 = Coroa
+
+0x0019c8 - Início do jogo/Seleção de lado (8-bit)
+Nota: Ativo após o sorteio. Se o jogador vencer, todas as 3 opções estarão disponíveis.
+Valores:
+0x00 = Começar com a bola
+0x01 = Lado da casa (esquerdo)
+0x02 = Lado visitante (direito)
 
 0x000da2 - Pontuação do Jogador 1 (8-bit)
 Nota: Armazena a pontuação do Jogador 1 como um valor hexadecimal padrão
@@ -304,20 +310,22 @@ Valores:
 0x09 = "Tempo extra"
 0x0d = "Passe longo"
 0x0b = "Jogador caido"
+0x11 = "Bicicleta"
 0x14 = "Vitoria"
 0x13 = "Perdeu"
 0x2c = "Chute normal"
 0x2d = "Chute muito forte"
 0x27 = "Começou"
 0x28 = "Falta"
+0x29 = "Cartão  amarelo"
 0x32 = "Gol contra"
 0x34 = "Chute Forte"
 0x38 = "Defesa do goleiro"
 0x40 = "Desarme"
 0x43 = "Fim do jogo"
 0x46 = "Gol"
-0x48 = "Latido"
-obs: 0x048 informa que o juiz modo cão esta ativo
+0x48 = "Latido" obs: informa que o juiz modo cão esta ativo
+
  
 0x00d706 - Modos de Cenário Vencidos (1-8) (8-bit)
 Nota: Este é um campo de bits. Cada bit corresponde a um cenário concluído.
