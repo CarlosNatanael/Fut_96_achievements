@@ -142,7 +142,7 @@ Nenhuma Falta: `(5 pts)`
 - Vença uma partida sem fazer nenhuma falta na dificuldade 5 ou superior
 
 Goleada: `(2 pts)`
-- Vença uma partida por 5 gols de diferença
+- Marque 5 gols em uma única partida
 
 Chuva de Gols: `(10 pts)`
 - Marque 10 gols em uma única partida
@@ -151,7 +151,7 @@ Hat-Trick: `(5 pts)`
 - Marque 3 gols com um único jogador
 
 Defesa Intransponível: `(5 pts)`
-- Vença uma partida sem sofrer gols na dificuldade 5 ou superior
+- Vença uma partida sem sofrer gols na dificuldade 5 ou superior. Pênaltis não contam.
 
 Liga de Elite: `(15 pts)`
 - Vença o modo "Liga Curta" na dificuldade 5 ou superior

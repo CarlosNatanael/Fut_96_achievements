@@ -28,7 +28,7 @@ Valores:
 
 Observação: Se acabar o segundo tempo da prorrogação e ir para os penaltis o valor continua 0x03
 
-0x000da0 - Times (8-bit)
+0x000da0 - Times P1 (8-bit)
 # == Times do Brasil ==
 0x00 = Cruzeiro
 0x02 = Palmeiras
@@ -79,7 +79,75 @@ Observação: Se acabar o segundo tempo da prorrogação e ir para os penaltis o
 0x50 = America A (America All-Stars A)
 0x52 = America E (America All-Stars E)
 
-0x000ea0 - Times (8-bit)
+0x000da2 - Placar do Jogador P1 (8-bit)
+Nota: Armazena a pontuação do Jogador 1 como um valor hexadecimal padrão
+
+0x000daa - Total de Chutes do Jogador P1 (8-bit)
+Nota: Registra o número total de chutes realizados pelo Jogador P1. O valor é hexadecimal padrão.
+
+0x000dab - Total de Cobranças de Falta do Jogador P1 (8-bit)
+Nota: Registra o número total de cobranças de falta realizadas pelo Jogador P1. O valor é hexadecimal padrão.
+
+0x000dac - Total de Escanteios do Jogador P1 (8-bit)
+Nota: Registra o número total de escanteios cobrados pelo Jogador P1. O valor é hexadecimal padrão.
+
+0x000dad - Total de Pênaltis do Jogador P1 (8-bit)
+Nota: Registra o número total de pênaltis cobrados pelo Jogador P1. O valor é hexadecimal padrão.
+
+0x000dae - Total de Cartões Amarelos do Jogador P1 (8-bit)
+Nota: Registra o número total de cartões amarelos recebidos pelo Jogador P1. O valor é hexadecimal padrão.
+
+0x000daf - Total de Cartões Vermelhos do Jogador P1 (8-bit)
+Nota: Registra o número total de cartões vermelhos recebidos pelo Jogador P1. O valor é hexadecimal padrão.
+
+0x000db0 - Total de Substituições do Jogador P1 (8-bit)
+Nota: Registra o número total de substituições feitas pelo Jogador P1. O valor é hexadecimal padrão.
+
+0x000da6 - Formação utilizada P1 (8-bit)
+Valores:
+0x00 = 4-5-1
+0x01 = 4-4-2
+0x02 = 4-3-3
+0x03 = 4-2-4
+0x04 = 3-5-2
+0x05 = 3-4-3
+0x06 = 3-3-4
+0x07 = 3-2-5
+0x08 = 2-5-3
+0x09 = 2-4-4
+0x0a = 2-3-5
+0x0b = 5-4-1
+0x0c = 5-3-2
+0x0d = 5-2-3
+0x0e = 1-5-4
+0x0f = 1-4-5
+
+0x000de2 - Nivel do goleiro P1 (8-bit)
+Valores:
+0x00 = Muito Fraco
+0x01 = Fraco
+0x02 = Normal
+0x03 = Bom
+0x04 = Forte
+
+0x00156c - Condição dos jogadores P1 (8-bit)
+Valores:
+0x00 = Pessimo
+0x01 = Ruim
+0x02 = Medio
+0x03 = Bom
+0x04 = Otimo
+0x05 = Aleatorio
+
+0x001e68 - Numero de jogadores P1 (8-bit)
+Valores:
+0x06 = 7
+0x07 = 8
+0x08 = 9
+0x09 = 10
+0x0a = 11
+
+0x000ea0 - Times P2 (8-bit)
 # == Times do Brasil ==
 0x00 = Cruzeiro
 0x02 = Palmeiras
@@ -129,6 +197,74 @@ Observação: Se acabar o segundo tempo da prorrogação e ir para os penaltis o
 0x4e = Europa (Europe All-Stars)
 0x50 = America A (America All-Stars A)
 0x52 = America E (America All-Stars E)
+
+0x000ea2 - Placar do Jogador 2 (8-bit)
+Nota: Armazena a Placar do Jogador 2 como um valor hexadecimal padrão
+
+0x000eaa - Total de Chutes do Jogador P2 (8-bit)
+Nota: Registra o número total de chutes realizados pelo Jogador P2. O valor é hexadecimal padrão.
+
+0x000eab - Total de Cobranças de Falta do Jogador P2 (8-bit)
+Nota: Registra o número total de cobranças de falta realizadas pelo Jogador P2. O valor é hexadecimal padrão.
+
+0x000eac - Total de Escanteios do Jogador P2 (8-bit)
+Nota: Registra o número total de escanteios cobrados pelo Jogador P2. O valor é hexadecimal padrão.
+
+0x000ead - Total de Pênaltis do Jogador P2 (8-bit)
+Nota: Registra o número total de pênaltis cobrados pelo Jogador P2. O valor é hexadecimal padrão.
+
+0x000eae - Total de Cartões Amarelos do Jogador P2 (8-bit)
+Nota: Registra o número total de cartões amarelos recebidos pelo Jogador P2. O valor é hexadecimal padrão.
+
+0x000eaf - Total de Cartões Vermelhos do Jogador P2 (8-bit)
+Nota: Registra o número total de cartões vermelhos recebidos pelo Jogador P2. O valor é hexadecimal padrão.
+
+0x000eb0 - Total de Substituições do Jogador P2 (8-bit)
+Nota: Registra o número total de substituições feitas pelo Jogador P2. O valor é hexadecimal padrão.
+
+0x000ea6 - Formação utilizada P2 (8-bit)
+Valores:
+0x00 = 4-5-1
+0x01 = 4-4-2
+0x02 = 4-3-3
+0x03 = 4-2-4
+0x04 = 3-5-2
+0x05 = 3-4-3
+0x06 = 3-3-4
+0x07 = 3-2-5
+0x08 = 2-5-3
+0x09 = 2-4-4
+0x0a = 2-3-5
+0x0b = 5-4-1
+0x0c = 5-3-2
+0x0d = 5-2-3
+0x0e = 1-5-4
+0x0f = 1-4-5
+
+0x000ee2 - Nivel do goleiro P2 (8-bit)
+Valores:
+0x00 = Muito Fraco
+0x01 = Fraco
+0x02 = Normal
+0x03 = Bom
+0x04 = Forte
+
+0x00156e - Condição dos jogadores P2 (8-bit)
+Valores:
+0x00 = Pessimo
+0x01 = Ruim
+0x02 = Medio
+0x03 = Bom
+0x04 = Otimo
+0x05 = Aleatorio
+
+0x001e6a - Numero de jogadores P2 (8-bit)
+Valores:
+0x06 = 7
+0x07 = 8
+0x08 = 9
+0x09 = 10
+0x0a = 11
 
 0x0014ee - Pausa opções (8-bit)
 Valores:
@@ -169,40 +305,6 @@ Valores:
 0x01 = Bom
 0x02 = Chuva
 
-0x00156c - Condição dos jogadores P1 (8-bit)
-Valores:
-0x00 = Pessimo
-0x01 = Ruim
-0x02 = Medio
-0x03 = Bom
-0x04 = Otimo
-0x05 = Aleatorio
-
-0x00156e - Condição dos jogadores P2 (8-bit)
-Valores:
-0x00 = Pessimo
-0x01 = Ruim
-0x02 = Medio
-0x03 = Bom
-0x04 = Otimo
-0x05 = Aleatorio
-
-0x001570 - Numero de jogadores P1 (8-bit)
-Valores:
-0x0a = 11
-0x09 = 10
-0x08 = 9
-0x07 = 8
-0x06 = 7
-
-0x001572 - Numero de jogadores P2 (8-bit)
-Valores:
-0x0a = 11
-0x09 = 10
-0x08 = 9
-0x07 = 8
-0x06 = 7
-
 0x0019ac - Chamada para Cara ou Coroa (8-bit)
 Nota: Registra a chamada do jogador antes do lançamento da moeda.
 Valores:
@@ -221,12 +323,6 @@ Valores:
 0x00 = Começar com a bola
 0x01 = Lado da casa (esquerdo)
 0x02 = Lado visitante (direito)
-
-0x000da2 - Pontuação do Jogador 1 (8-bit)
-Nota: Armazena a pontuação do Jogador 1 como um valor hexadecimal padrão
-
-0x000ea2 - Pontuação do Jogador 2 (8-bit)
-Nota: Armazena a pontuação do Jogador 2 como um valor hexadecimal padrão
 
 0x0016d2 - Cronômetro do Jogo - Segundos (8-bit)
 Nota: Armazena a parte dos segundos do cronômetro da partida. O valor é hexadecimal padrão (Hex=Dec).
@@ -298,34 +394,33 @@ Valores:
 0x0a = Cenario 11
 0x0b = Cenario 12
 
-0x001d08 - Linhas de Voz (8-bit)
-Nota: Acionado quando uma linha de voz é reproduzida.
+0x001d08 - ID da Linha de Voz / Gatilho de Evento (8 bits)
+Nota: Indica a linha de áudio/voz que está sendo reproduzida.
 Valores:
-0x01 = "Escanteio"
-0x02 = "Tiro de meta"
-0x03 = "Lateral"
-0x04 = "Tiro Livre"
-0x08 = "Fim do 1 tempo"
-0x07 = "Replay"
-0x09 = "Tempo extra"
-0x0d = "Passe longo"
-0x0b = "Jogador caido"
-0x11 = "Bicicleta"
-0x14 = "Vitoria"
-0x13 = "Perdeu"
-0x2c = "Chute normal"
-0x2d = "Chute muito forte"
-0x27 = "Começou"
-0x28 = "Falta"
-0x29 = "Cartão  amarelo"
-0x32 = "Gol contra"
-0x34 = "Chute Forte"
-0x38 = "Defesa do goleiro"
-0x40 = "Desarme"
-0x43 = "Fim do jogo"
-0x46 = "Gol"
-0x48 = "Latido" obs: informa que o juiz modo cão esta ativo
-
+0x01 = Escanteio
+0x02 = Tiro de Meta
+0x03 = Lateral
+0x04 = Falta
+0x07 = Repetição
+0x08 = Fim do 1º Tempo
+0x09 = Prorrogação
+0x0b = Jogador Caído
+0x0d = Passe Longo
+0x11 = Bicicleta
+0x13 = Você Perdeu!
+0x14 = Você Ganhou!
+0x27 = Início do jogo
+0x28 = Falta
+0x29 = Cartão amarelo
+0x2c = Chute normal
+0x2d = Chute muito forte
+0x32 ​​= Gol contra
+0x34 = Chute forte
+0x38 = Defesa do goleiro
+0x40 = Desarme
+0x43 = Fim de jogo
+0x46 = Gol
+0x48 = Latido (Cão árbitro ativo)
  
 0x00d706 - Modos de Cenário Vencidos (1-8) (8-bit)
 Nota: Este é um campo de bits. Cada bit corresponde a um cenário concluído.
