@@ -1,32 +1,4 @@
-0x000032 - ID da tela (8-bit)
-Valores:
-0x00 = Logotipo da Konami (na inicialização)
-0x01 = Tela de título
-0x03 = Durante o jogo (Demo)
-0x05 = Transição da tela de título para a tela de seleção de modo
-0x06 = Tela de seleção de modo (e durante o jogo normal)
-0x09 = Introdução (antes da tela de título)
-
-Observação: Parece ser 0x06 consistentemente durante todos os modos de jogo normais após a tela de seleção de modo. Parece consistente.
-
-0x000052 - CPU Ativa (8-bit)
-Valores:
-0x00 = Yes
-0x01 = No
-
-0x000058 - Game State / Scenario (8-bit)
-Valores:
-0x01 = Game Over screen (Win or Lose)
-0x03 = Penalty Shootout
-
-0x0000a8 - Período de jogo (8-bit)
-Valores:
-0x00 = Primeiro tempo
-0x01 = Segundo tempo
-0x02 = Primeiro tempo da prorrogação
-0x03 = Segundo tempo da prorrogação
-
-Observação: Se acabar o segundo tempo da prorrogação e ir para os penaltis o valor continua 0x03
+# === Configuração Player 1 ===
 
 0x000da0 - Times P1 (8-bit)
 # == Times do Brasil ==
@@ -130,14 +102,14 @@ Valores:
 0x03 = Bom
 0x04 = Forte
 
-0x00156c - Condição dos jogadores P1 (8-bit)
+0x00d474 - Condição dos jogadores P1 (8-bit)
 Valores:
-0x00 = Pessimo
-0x01 = Ruim
-0x02 = Medio
-0x03 = Bom
-0x04 = Otimo
-0x05 = Aleatorio
+0x00 = Péssimo (Roxo/Para baixo)
+0x01 = Ruim (Azul/Para baixo e para a direita)
+0x02 = Regular (Verde/Para a direita)
+0x03 = Bom (Laranja/Para cima e para a direita)
+0x04 = Excelente (Vermelho/Para cima)
+0x05 = Aleatório
 
 0x001e68 - Numero de jogadores P1 (8-bit)
 Valores:
@@ -146,6 +118,8 @@ Valores:
 0x08 = 9
 0x09 = 10
 0x0a = 11
+
+# === Configuração Player 2 ===
 
 0x000ea0 - Times P2 (8-bit)
 # == Times do Brasil ==
@@ -249,14 +223,14 @@ Valores:
 0x03 = Bom
 0x04 = Forte
 
-0x00156e - Condição dos jogadores P2 (8-bit)
+0x00d476 - Condição dos jogadores P2 (8-bit)
 Valores:
-0x00 = Pessimo
-0x01 = Ruim
-0x02 = Medio
-0x03 = Bom
-0x04 = Otimo
-0x05 = Aleatorio
+0x00 = Péssimo (Roxo/Para baixo)
+0x01 = Ruim (Azul/Para baixo e para a direita)
+0x02 = Regular (Verde/Para a direita)
+0x03 = Bom (Laranja/Para cima e para a direita)
+0x04 = Excelente (Vermelho/Para cima)
+0x05 = Aleatório
 
 0x001e6a - Numero de jogadores P2 (8-bit)
 Valores:
@@ -265,6 +239,37 @@ Valores:
 0x08 = 9
 0x09 = 10
 0x0a = 11
+
+# ==== Configuração do jogo, cutscene e cenarios ====
+
+0x000032 - ID da tela (8-bit)
+Valores:
+0x00 = Logotipo da Konami (na inicialização)
+0x01 = Tela de título
+0x03 = Durante o jogo (Demo)
+0x05 = Transição da tela de título para a tela de seleção de modo
+0x06 = Tela de seleção de modo (e durante o jogo normal)
+0x09 = Introdução (antes da tela de título)
+
+Observação: Parece ser 0x06 consistentemente durante todos os modos de jogo normais após a tela de seleção de modo. Parece consistente.
+
+0x000052 - CPU Ativa (8-bit)
+Valores:
+0x00 = Yes
+0x01 = No
+
+0x000058 - Estado do Jogo / Cenário (8-bit)
+Valores:
+0x01 = Tela de Fim de Jogo (Vitória ou Derrota)
+0x03 = Disputa de Pênaltis
+
+0x0000a8 - Período de jogo (8-bit)
+Valores:
+0x00 = Primeiro tempo
+0x01 = Segundo tempo
+0x02 = Primeiro tempo da prorrogação
+0x03 = Segundo tempo da prorrogação
+Observação: Se acabar o segundo tempo da prorrogação e ir para os penaltis o valor continua 0x03
 
 0x0014ee - Pausa opções (8-bit)
 Valores:
@@ -281,12 +286,6 @@ Valores:
 0x05 = Penaltis
 0x06 = Treinamento
 0x07 = Opções
-
-0x001542 - Menu jogo rapido (8-bit)
-Valores:
-0x00 = Exibição
-0x01 = Liga Curta
-0x02 = Torneio curto
 
 0x001fa2 - Estadios (8-bit)
 Valores:
@@ -394,7 +393,7 @@ Valores:
 0x0a = Cenario 11
 0x0b = Cenario 12
 
-0x001d08 - ID da Linha de Voz / Gatilho de Evento (8 bits)
+0x001d08 - ID da Linha de Voz / Gatilho de Evento (8-bit)
 Nota: Indica a linha de áudio/voz que está sendo reproduzida.
 Valores:
 0x01 = Escanteio
@@ -423,7 +422,7 @@ Valores:
 0x48 = Latido (Cão árbitro ativo)
  
 0x00d706 - Modos de Cenário Vencidos (1-8) (8-bit)
-Nota: Este é um campo de bits. Cada bit corresponde a um cenário concluído.
+Nota: Este é um campo de-bit. Cada bit corresponde a um cenário concluído.
 Valores:
 Bit 7 = Cenário 1 Vencido (0x80)
 Bit 6 = Cenário 2 Vencido (0x40)
@@ -435,9 +434,81 @@ Bit 1 = Cenário 7 Vencido (0x02)
 Bit 0 = Cenário 8 Vencido (0x01)
   
 0x00d88d - Modos de Cenário Vencidos (9-12) (8-bit)
-Nota: Este é um campo de bits. Cada bit corresponde a um cenário concluído.
+Nota: Este é um campo de-bit. Cada bit corresponde a um cenário concluído.
 Valores:
 Bit 3 = Cenário 9 Vencido (0x08)
 Bit 2 = Cenário 10 Vencido (0x04)
 Bit 1 = Cenário 11 Vencido (0x02)
 Bit 0 = Cenário 12 Vencido (0x01)
+
+0x00e534 - Modo de Treinamento Ativo (8-bit)
+Nota: Sinalizador que indica se a lógica específica do Modo de Treinamento está em execução.
+Valores:
+0x00 = Inativo
+0x01 = Ativo
+
+0x00d88e - Contagem de tentativas do Cenário 1 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 1. Começa em 0x00.
+
+0x00d88f - Contagem de Tentativas do Cenário 2 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 2
+
+0x00d890 - Contagem de Tentativas do Cenário 3 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 3
+
+0x00d891 - Contagem de Tentativas do Cenário 4 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 4
+
+0x00d892 - Contagem de Tentativas do Cenário 5 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 5
+
+0x00d893 - Contagem de Tentativas do Cenário 6 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 6
+
+0x00d894 - Contagem de Tentativas do Cenário 7 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 7
+
+0x00d895 - Contagem de tentativas do Cenário 8 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 8
+
+0x00d896 - Contagem de tentativas do Cenário 9 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 9
+
+0x00d897 - Contagem de tentativas do Cenário 10 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 10
+
+0x00d898 - Contagem de tentativas do Cenário 11 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 11
+
+0x00d899 - Contagem de tentativas do Cenário 12 (8-bit)
+Nota: Registra o número de vezes que o jogador tentou o Cenário 12
+
+0x00e528 - Modo Desafio Ativo (8-bit) 
+Nota: Sinalizador que indica se a lógica específica do Modo Desafio está em execução
+Valores: 
+0x00 = Inativo 
+0x01 = Ativo
+
+Challenge Mode Active (8-bit)
+Note: Flag that indicates if the specific Challenge Mode logic is running.
+Values:
+0x00 = Inactive
+0x01 = Active
+
+0x00e52c - Tipo de modo de desafio (8-bit)
+Nota: Determina qual minijogo está atualmente selecionado/ativo no Modo Desafio.
+Valores:
+0x00 = Desafio de Drible
+0x01 = Passar no Desafio
+0x02 = Desafio de chute
+0x03 = Desafio de Defesa
+0x04 = Desafio de escanteio
+0x05 = Desafio de cobrança de falta
+
+0x00e52e - Nível do modo de desafio (8 bits)
+Nota: Seleciona o nível de dificuldade do desafio escolhido.
+Valores:
+0x00 = Nível 1
+0x01 = Nível 2
+0x02 = Nível 3
+0x03 = Nível 4
