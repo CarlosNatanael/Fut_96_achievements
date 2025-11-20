@@ -1,3 +1,4 @@
+70/70
 # === Configuração Player 1 ===
 
 0x000da0 - Times P1 (8-bit)
@@ -50,6 +51,9 @@
 0x4e = Europa (Europe All-Stars)
 0x50 = America A (America All-Stars A)
 0x52 = America E (America All-Stars E)
+
+0x00d442 - Pontuação de Pênalti do Jogador P1 (8-bit)
+Nota: Armazena a pontuação do Jogador 1 durante uma disputa de pênaltis. O valor é hexadecimal padrão.
 
 0x000da2 - Placar do Jogador P1 (8-bit)
 Nota: Armazena a pontuação do Jogador 1 como um valor hexadecimal padrão
@@ -174,6 +178,9 @@ Valores:
 
 0x000ea2 - Placar do Jogador 2 (8-bit)
 Nota: Armazena a Placar do Jogador 2 como um valor hexadecimal padrão
+
+0x00d443 - Pontuação de Pênalti do Jogador P2 (8-bit)
+Nota: Armazena a pontuação do Jogador 2 durante uma disputa de pênaltis. O valor é hexadecimal padrão.
 
 0x000eaa - Total de Chutes do Jogador P2 (8-bit)
 Nota: Registra o número total de chutes realizados pelo Jogador P2. O valor é hexadecimal padrão.
