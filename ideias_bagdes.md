@@ -2,21 +2,6 @@
 
 Feitas: `0/52`
 
-
-## Temática Geral: Troféus e Pranchetas Táticas.
-
-**Campeão Brasileiro (10 pts - Prata)**: 
-- Uma taça de troféu dourada clássica (estilo "taça das bolinhas" ou o troféu atual do Brasileirão) com uma fita verde e amarela amarrada.
-
-**Rei da Copa (10 pts - Prata)**: 
-- Um troféu em formato de copa (taça larga) prateada, com um mapa do Brasil sutilmente gravado no centro.
-
-**Campeão da Liga (10 pts - Prata)**: 
-- Um escudo com uma grande letra "L" estilizada no centro, encimado por uma pequena coroa.
-
-**Campeão do Torneio (10 pts - Prata)**: 
-- Uma medalha de ouro pendurada em uma fita azul, com o desenho de uma bola de futebol alada no centro.
-
 # Challenge Achievements (26 Conquistas)
 
 - ## Temática dos Cenários: Para os cenários, a base será sempre uma Prancheta Tática Retrô (fundo verde, linhas brancas de campo, setas de giz), com um ícone único sobreposto que represente o desafio específico. Todos são Moldura de Bronze (exceto o Especialista).

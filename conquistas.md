@@ -1,11 +1,11 @@
 ### Estatisticas
-- Total de conqustas: `52`
+- Total de conqustas: `53`
 - Conquistas funcionando: `0/52`
 - Conquistas com problemas: `0/52`
-- Total de Pontos: `370 pontos`
+- Total de Pontos: `395 pontos`
 - RetroPoints: `- pontos`
 
-### Progression achievements (17 Conquistas)
+### Progression achievements (18 Conquistas)
 
 Campeão Brasileiro: `(10 pts)`
 - Vença o modo "Campeonato"
@@ -18,6 +18,9 @@ Campeão da Liga: `(10 pts)`
 
 Campeão do Torneio: `(10 pts)`
 - Vença o modo "Torneio Curto"
+
+Perfeição Absoluta: `(25 pts)`
+- Vença todos os cenários na primeira tentativa
 
 Especialista em Cenários: `(25 pts)`
 - Complete todos desafio no modo "Cenários" na dificuldade 5 ou superior
@@ -47,7 +50,7 @@ Clássico Paulistão 100 Mil: `(10 pts)`
 - Conclua o Cenário 8 na dificuldade 3 ou superior
 
 O Campeão Não Perde a Força: `(10 pts)`
-- Conclua o Cenário 9 na dificuldade 3 ou superior
+- Conclua o Cenário 9 na dificuldade 3 ou superiorp
 
 Duelo Épico: `(5 pts)`
 - Conclua o Cenário 10 na dificuldade 3 ou superior
