@@ -2,49 +2,6 @@
 
 Feitas: `0/52`
 
-# Challenge Achievements (26 Conquistas)
-
-- ## Temática dos Cenários: Para os cenários, a base será sempre uma Prancheta Tática Retrô (fundo verde, linhas brancas de campo, setas de giz), com um ícone único sobreposto que represente o desafio específico. Todos são Moldura de Bronze (exceto o Especialista).
-
-**Especialista em Cenários (25 pts - Ouro)**: 
-- Uma prancheta tática dourada e cheia de anotações complexas, com um grande "Check" (✓) vermelho no centro e uma coroa de louros ao redor.
-
-**Sem força fisica (C1)**: 
-- Prancheta tática com um ícone de um peso de academia (haltere) quebrado ao meio.
-
-**Romario na mira (C2)**: 
-- Prancheta tática com uma mira telescópica vermelha focada em uma camisa com o número 11.
-
-**O Rei da Anulação (C3)**: 
-- Prancheta tática com o ícone de um apito de juiz com um grande "X" vermelho sobre ele.
-
-**Perdão, Giovanni! (C4)**: 
-- Prancheta tática com um rosto de um jogador com cabelo tingido de vermelho (referência ao Giovanni do Santos nos anos 90) com uma auréola de anjo.
-
-**Virada Lusa (C5)**: 
-- Prancheta tática com o escudo da Portuguesa (Lusa) e uma seta curva para cima indicando virada.
-
-**Presente de Aniversário (C6)**: 
-- Prancheta tática com um ícone de um bolo de aniversário com uma vela acesa e uma bola de futebol no topo.
-
-**Milagre da Preparação Física (C7)**: 
-- Prancheta tática com um ícone de uma pilha (bateria) cheia de energia e raios saindo dela.
-
-**Clássico Paulistão 100 Mil (C8)**: 
-- Prancheta tática com o desenho de um estádio antigo lotado (estilo Morumbi) visto de cima.
-
-**O Campeão Não Perde a Força (C9)**: 
-- Prancheta tática com um braço musculoso fazendo "muque", usando uma braçadeira de capitão.
-
-**Duelo Épico (C10)**: 
-- Prancheta tática com duas espadas medievais cruzadas atrás de uma bola de futebol.
-
-**A Tática Perfeita (C11)**: 
-- Prancheta tática com várias setas formando um desenho geométrico perfeito que leva a um gol.
-
-**Clama por Luizão (C12)**: 
-- Prancheta tática com uma silhueta de um jogador alto de braços abertos comemorando (pose clássica do Luizão).
-
 # Side Quest/Optional Achievements (5 Conquistas)
 
 ## Temática Geral: Ícones simples de Bronze representando os primeiros passos.
