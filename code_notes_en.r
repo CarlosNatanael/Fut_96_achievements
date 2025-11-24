@@ -1,3 +1,5 @@
+70/70
+
 0x000032 - Screen ID (8-bit)
 Values:
 0x00 = Konami logo (on boot)
