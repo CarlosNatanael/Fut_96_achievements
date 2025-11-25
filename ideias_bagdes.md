@@ -1,8 +1,6 @@
 ## Progression Achievements (17 Conquistas)
 
-Feitas: `0/52`
-
-# Side Quest/Optional Achievements (5 Conquistas)
+Imagens feitas: `17/52`
 
 ## Temática Geral: Ícones simples de Bronze representando os primeiros passos.
 
