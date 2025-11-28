@@ -574,4 +574,3 @@ Note: Flag that indicates if the specific Training Mode logic is running.
 Values:
 0x00 = Inactive
 0x01 = Active
-
