@@ -2,122 +2,125 @@
 
 Imagens feitas: `17/52`
 
-## Temática Geral: Ícones simples de Bronze representando os primeiros passos.
+### Progression achievements (1 Conquistas)
 
-**Primeira Vitória (1 pt)**: 
-- Um punho fechado erguido em comemoração com uma fita de "#1" no pulso.
+Perfeição Absoluta: `(25 pts)`
+- Vença todos os cenários na primeira tentativa
 
-**Bola na Rede! (1 pt)**: 
-- Close-up de uma bola de futebol estufando a rede do gol.
+### Side Quest/Optional Achievements (5 Conquistas)
 
-**Haja Coração! (1 pt)**: 
-- Um ícone de um coração humano pulsando com um curativo, ao lado da marca do pênalti.
+Primeira Vitória: `(1 pt)`
+- Vença uma partida em qualquer modo
 
-**Cara ou Coroa? (1 pt)**: 
-- Uma moeda antiga girando no ar, mostrando "cara" de um lado e "coroa" do outro.
+Bola na Rede!: `(1 pt)`
+- Marque seu primeiro gol
 
-**Visitante Indigesto (2 pt)**: 
-- Uma mala de viagem com adesivos, parada no círculo central de um campo de futebol.
+Haja Coração!: `(1 pts)`
+- Vença uma partida na disputa de pênaltis
 
-# Collection Achievements (1 Conquista)
+Cara ou Coroa?: `(1 pt)`
+- Vença o "cara ou coroa" inicial
 
-**A Seleção de 96 (5 pts - Bronze)**: 
-- Uma camisa de futebol retrô amarela com gola azul polo (estilo 94/96), com o número "96" estilizado nas costas.
+Visitante Indigesto: `(2 pt)`
+- Escolha o mando de campo (direita) e vença a partida na dificuldade 5 ou superior
 
-# For Fun/Easter Egg Achievements (1 Conquista)
+### Collection Achievements (1 Conquistas)
 
-**Au Au com apito (2 pts - Bronze)**: 
-- A cabeça de um cachorro (talvez um vira-lata caramelo pixelado) usando um apito de juiz na boca.
+A Seleção de 96: `(5 pts)`
+- Marque 4 gols ou mais em uma única partida jogando com a seleção Brasil 96 na dificuldade 4 ou superior
 
-# Challenge Achievements (26 Conquistas)
+### For Fun/Easter Egg Achievements (1 Conquistas)
 
-## Temática Geral: Focadas na dificuldade, rivalidades e condições extremas. Molduras variam.
+Au Au com apito: `(2 pts)`
+- Use o cheat do cachorro e vença a partida
 
-**O batedor (5 pts - Bronze)**: 
-- Uma chuteira dourada chutando uma bola que está entrando exatamente no ângulo (gaveta) do gol.
+### Challenge Achievements (26 Conquistas)
 
-**Sem Vantagem (5 pts - Bronze)**: 
-- O ícone de condição do jogador (uma seta para baixo vermelha ou um rosto triste) com uma muleta ao lado.
+O batedor: `(5 pts)` 
+- Vencer no modo penaltis fazendo todos os gols na dificuldade 5 ou superior
 
-**Virada Heroica (10 pts - Prata)**: 
-- Um placar eletrônico antigo mostrando "1-2" mudando para "3-2", com chamas ao redor.
+Sem Vantagem: `(5 pts)`
+- Vença uma partida com a condição de jogadores "Péssimo" na dificuldade 4 ou superior
 
-**Vitória na Prorrogação (5 pts - Bronze)**: 
-- Um cronômetro marcando "115:00" com gotas de suor saindo dele.
+Virada Heroica: `(10 pts)`
+- Vença uma partida após estar perdendo no intervalo
 
-**Nos Acréscimos (5 pts - Bronze)**: 
-- Um relógio analógico marcando quase 90 minutos, com o ponteiro dos segundos em vermelho, e uma bola cruzando a linha do gol.
+Vitória na Prorrogação: `(5 pts)`
+- Vença na prorrogação (sem ir aos pênaltis) na dificuldade 4 ou superior
 
-**Mestre da Chuva (1 pt - Bronze)**: 
-- Uma bola de futebol pesada e molhada, sob uma nuvem cinza com raios e chuva forte.
+Nos Acréscimos: `(5 pts)`
+- Marque um gol após os 40:00 (1ºT) ou 85:00 (2ºT) minutos
 
-**Rei da Neve (1 pt - Bronze)**: 
-- Uma bola de futebol branca e laranja (bola de inverno) parcialmente enterrada na neve, com um floco de neve gigante atrás.
+Mestre da Chuva: `(1 pts)`
+- Vença uma partida com o clima "Chuva" na dificuldade 4 ou superior
 
-**Time de 10 (10 pts - Prata)**: 
-- Um cartão vermelho levantado por um juiz, com a silhueta de apenas 10 jogadores perfilados ao fundo.
+Rei da Neve: `(1 pts)`
+- Vença uma partida com o clima "Neve" na dificuldade 4 ou superior
 
-**Rei do Gre-Nal (5 pts - Bronze)**: 
-- Um escudo dividido ao meio verticalmente. Lado esquerdo azul (Grêmio), lado direito vermelho (Inter), com uma coroa no topo.
+Time de 10: `(10 pts)`
+- Vença uma partida após ter um jogador expulso (jogando com 10) na dificuldade 4 ou superior
 
-**Rei do Paulistão (5 pts - Bronze)**: 
-- Escudo dividido em quatro (quadrantes). Preto/Branco (Corinthians) e Verde/Branco (Palmeiras) dominam, com o mapa do estado de SP no centro.
+Rei do Gre-Nal: `(5 pts)`
+- No Clássico Gre-Nal, vença a partida jogando como Grêmio ou Internacional
 
-**Rei do Carioca (5 pts - Bronze)**: 
-- Escudo dividido diagonalmente. Vermelho/Preto (Fla) de um lado, Verde/Grená/Branco (Flu) do outro, com o Pão de Açúcar ao fundo.
+Rei do Paulistão: `(5 pts)`
+- No Clássico Paulista, vença a partida jogando como Corinthians ou Palmeiras
 
-**Rei do Mineiro (5 pts - Bronze)**: 
-- Escudo dividido. Azul (Cruzeiro) e Preto/Branco (Galo), com um desenho de uma raposa e um galo se encarando.
+Rei do Carioca: `(5 pts)`
+- No Clássico Fla-Flu, vença a partida jogando como Flamengo ou Fluminense
 
-**Rei do Ba-Vi (5 pts - Bronze)**: 
-- Escudo dividido. Azul/Vermelho/Branco (Bahia) e Vermelho/Preto (Vitória), com um farol da barra estilizado no meio.
+Rei do Mineiro: `(5 pts)`
+- No Clássico Mineiro, vença a partida jogando como Cruzeiro ou Atlético-MG
 
-**David vs Golias (10 pts - Prata)**: 
-- Um pequeno escudo genérico (União) derrubando um escudo gigante e imponente vermelho e preto (Flamengo).
+Rei do Ba-Vi: `(5 pts)`
+- No Clássico Ba-Vi, vença a partida jogando como Bahia ou Vitória
 
-**Melhor do Mundo (10 pts - Prata)**: 
-- Um globo terrestre dourado com uma faixa "Brasil 96" cruzando, superando um mapa da Europa prateado.
+David vs Golias: `(10 pts)`
+- Como União, vença o Flamengo
 
-**Passado e Presente (10 pts - Prata)**: 
-- Uma imagem estilo "foto rasgada": metade é uma foto em sépia do time de 58, a outra metade é uma foto colorida do time de 96.
+Melhor do Mundo: `(10 pts)`
+- Como Brasil 96, vença a Europa All-Stars
 
-**O Impossível (25 pts - Ouro)**: 
-- Uma caveira usando uma coroa de rei, com olhos vermelhos brilhantes. O número "96" está gravado na testa da caveira. É a badge mais intimidadora.
+Passado e Presente: `(10 pts)`
+- Como Brasil 96, vença a Brasil 58
 
-**Nenhuma Falta (5 pts - Bronze)**: 
-- Um par de caneleiras intactas e limpas, ao lado de um apito de juiz que está amordaçado ou quebrado.
+O Impossível: `(25 pts)`
+- Vença o Brasil 96 na dificuldade máxima e no tempo máximo
 
-**Goleada (2 pts - Bronze)**: 
-- Uma mão aberta mostrando os 5 dedos, com uma bola de futebol em cada ponta dos dedos.
+Nenhuma Falta: `(5 pts)`
+- Vença uma partida sem fazer nenhuma falta na dificuldade 5 ou superior
 
-**Chuva de Gols (10 pts - Prata)**: 
-- Uma nuvem de tempestade, mas em vez de gotas de chuva, estão caindo dezenas de bolas de futebol.
+Goleada: `(2 pts)`
+- Marque 5 gols em uma única partida
 
-**Hat-Trick (5 pts - Bronze)**: 
-- Uma cartola de mágico preta de onde saem três bolas de futebol e um coelho.
+Chuva de Gols: `(10 pts)`
+- Marque 10 gols em uma única partida
 
-**Defesa Intransponível (5 pts - Bronze)**: 
-- Um muro de tijolos construído na frente da linha do gol, com um par de luvas de goleiro no centro do muro.
+Hat-Trick: `(5 pts)`
+- Marque 3 gols com um único jogador
 
-**Liga de Elite (15 pts - Prata)**: 
-- Versão "premium" da badge "Campeão da Liga". O escudo é mais ornamentado, com diamantes incrustados na borda prateada.
+Defesa Intransponível: `(5 pts)`
+- Vença uma partida sem sofrer gols na dificuldade 5 ou superior. Pênaltis não contam.
 
-**Torneio de Mestres (15 pts - Prata)**: 
-- Versão "premium" da badge "Campeão do Torneio". A medalha tem estrelas brilhantes ao redor da bola alada.
+Liga de Elite: `(15 pts)`
+- Vença o modo "Liga Curta" na dificuldade 5 ou superior
 
-**Jogou o Foco no Lixo (5 pts - Bronze)**: 
-- Um ícone de uma barra de energia ou bateria completamente vazia (vermelha piscando), ao lado de uma taça de vitória.
+Torneio de Mestres: `(15 pts)`
+- Vença o modo "Torneio Curto" na dificuldade 5 ou superior
 
-**Gol Relâmpago (5 pts - Bronze)**: 
-- Um raio amarelo caindo do céu e atingindo uma bola que entra no gol, com um relógio marcando "01:59".
+Jogou o Foco no Lixo: `(5 pts)`
+- Gaste todos os pontos de Habilidade (Foco) e vença uma partida na dificuldade 4 ou superior
 
-# Unwelcome Concept achievements (2 Conquistas Ativas)
-## Temática Geral: Ícones ligeiramente cômicos ou bizarros.
+Gol Relâmpago: `(5 pts)`
+- Marque um gol antes de 02:00 do primeiro tempo (02:00 1ºT)
 
-[VOID] Pura Sorte: (Ignorado conforme solicitado).
+### Unwelcome Concept achievements (2 Conquistas)
 
-**Vamos falar de nível técnico? (10 pts - Prata)**: 
-- Um microfone de televisão antigo (estilo anos 90) com um balão de fala contendo um ponto de interrogação "?" gigante.
+**[VOID]**Pura Sorte: `(5 pts)`
+- Vença 5 'cara ou coroa' seguidos"
 
-**Se mexe goleirão (10 pts - Prata)**: 
-- Um par de luvas de goleiro com um controle de videogame (joystick) desenhado sobre elas, com setas indicando movimento manual.
+Vamos falar de nível técnico? `(10 pts)`
+- Vencer uma partida com União vs Real Madrid na dificuldade 5 ou superior
+
+Se mexe goleirão: `(10 pts)`
+- Vencer uma partida com arqueiro no manual na dificuldade 5 ou superior
